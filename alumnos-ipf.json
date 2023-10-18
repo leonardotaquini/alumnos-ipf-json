@@ -93,6 +93,35 @@
     },
     "fecha_ingreso": "2021-07-07T03:00:00.000Z",
     "tutor": "Augusto Chaves Fiore"
+  },
+  {
+      "_id": 45745605,
+      "fila": 1,
+      "pasodegrado": "S",
+      "apellido": "Pietkiewicz",
+      "nombre": "Maximiliano",
+      "sexo": "M",
+      "nacionalidad": "Argentino/a",
+      "fecha_nacim": {
+        "$date": "2004-04-11T03:00:00.000Z"
+      },
+      "oferta2021": 110,
+      "CUE2021": 340051300,
+      "plan2021": "Fsa2311012",
+      "grado2021": 5,
+      "oferta2022": 110,
+      "CUE2022": 340051300,
+      "plan2022": "Fsa2311012",
+      "grado2022": 6,
+      "domicilio": {
+        "barrio": "SAN PEDRO",
+        "calle": "VICENTE POSADAS",
+        "numero": 1876,
+        "cordenadas": {
+          "lat": -26.175433413485628,
+          "log": -58.19115405027633
+        }
+      }
   }
 
 ]
