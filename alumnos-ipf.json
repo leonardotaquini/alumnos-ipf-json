@@ -82,8 +82,178 @@
         "cue_anexo": 340117200
       }
     },
+       
     "fecha_ingreso": "2021-07-07T03:00:00.000Z",
     "tutor": "Augusto Chaves Fiore"
+  },
+  {
+      "_id": 45745605,
+      "fila": 1,
+      "pasodegrado": "S",
+      "apellido": "Pietkiewicz",
+      "nombre": "Maximiliano",
+      "sexo": "M",
+      "nacionalidad": "Argentino/a",
+      "fecha_nacim": {
+        "$date": "2004-04-11T03:00:00.000Z"
+      },
+      "oferta2021": 110,
+      "CUE2021": 340051300,
+      "plan2021": "Fsa2311012",
+      "grado2021": 5,
+      "oferta2022": 110,
+      "CUE2022": 340051300,
+      "plan2022": "Fsa2311012",
+      "grado2022": 6,
+      "domicilio": {
+        "barrio": "SAN PEDRO",
+        "calle": "VICENTE POSADAS",
+        "numero": 1876,
+        "cordenadas": {
+          "lat": -26.175433413485628,
+          "log": -58.19115405027633
+        }
+      }
+  },{
+    "_id": "37683989",
+    "nombres": [
+      "María José",
+
+    ],
+    "apellidos": [
+      "Cánepa"
+    ],
+    "domicilio": {
+      "localidad": "Formosa",
+      "barrio": "San Miguel",
+      "calle": "Luis Zambrini",
+      "nro": 408,
+      "mz": 
+      "casa": 
+      "grupo": 
+      "coordenadas": {
+        "lat": -26.17210419258526,
+        "lng": -58.17833161345554,
+      }
+    },
+    "genero": "F",
+    "nacionalidad": "Argentina",
+    "fecha_de_nacimiento": "1993-10-06T05:39:10.029Z",
+    "cursado": {
+      "2021": {
+        "año": 1,
+        "nivel_estudio_id": 115,
+        "nivel_estudio": "superior",
+        "plan_id": "Fsa2311501",
+        "carrera": "Tecnico Superior en Desarrollo de Software Multiplataforma",
+        "edad": 30,
+        "cue_anexo": 340117200
+      },
+      "2022": {
+        "año": 2,
+        "nivel_estudio": "superior",
+        "nivel_estudio_id": 115,
+        "plan_id": "Fsa2311013",
+        "carrera": "Tecnico Superior en Desarrollo de Software Multiplataforma",
+        "edad": 31,
+        "cue_anexo": 340117200
+      }
+    },
+    "fecha_ingreso": "2021-07-07T03:00:00.000Z",
+    "tutor": "María José Cánepa"
+  },{
+    "_id": "35285985",
+    "nombres": [
+      "Alejandro Nahuel",
+    ],
+    "apellidos": [
+      "Ruiz Díaz"
+    ],
+    "domicilio": {
+      "localidad": "Formosa",
+      "barrio": "Guadalupe",
+      "calle": "Avenida Antartida Argentina",
+      "nro": 326,
+      "mz": 
+      "casa": 
+      "grupo": 
+      "coordenadas": {
+        "lat": -26.185871,
+        "lng": -58.195513,
+      }
+    },
+    "genero": "M",
+    "nacionalidad": "Argentina",
+    "fecha_de_nacimiento": "1989-08-31T05:39:10.029Z",
+    "cursado": {
+      "2021": {
+        "año": 1,
+        "nivel_estudio_id": 115,
+        "nivel_estudio": "superior",
+        "plan_id": "Fsa2311501",
+        "carrera": "Tecnico Superior en Desarrollo de Software Multiplataforma",
+        "edad": 34,
+        "cue_anexo": 340117200
+      },
+      "2022": {
+        "año": 2,
+        "nivel_estudio": "superior",
+        "nivel_estudio_id": 115,
+        "plan_id": "Fsa2311013",
+        "carrera": "Tecnico Superior en Desarrollo de Software Multiplataforma",
+        "edad": 35,
+        "cue_anexo": 340117200
+      }
+    },
+    "fecha_ingreso": "2021-07-07T03:00:00.000Z",
+    "tutor": "Ruiz Diaz Alejandro"
+  },
+{
+    "_id": "34511578",
+    "nombres": [
+      "Ricardo Martín",
+    ],
+    "apellidos": [
+      "Pedemonte"
+    ],
+    "domicilio": {
+      "localidad": "Formosa",
+      "barrio": "El Resguardo",
+      "calle": "Santos Marighetti",
+      "nro": 375,
+      "mz": 
+      "casa": 
+      "grupo": 
+      "coordenadas": {
+        "lat": -26.158403,
+        "lng": -58.177647,
+      }
+    },
+    "genero": "M",
+    "nacionalidad": "Argentina",
+    "fecha_de_nacimiento": "1989-06-13T05:39:10.029Z",
+    "cursado": {
+      "2021": {
+        "año": 1,
+        "nivel_estudio_id": 115,
+        "nivel_estudio": "superior",
+        "plan_id": "Fsa2311501",
+        "carrera": "Tecnico Superior en Desarrollo de Software Multiplataforma",
+        "edad": 34,
+        "cue_anexo": 340117200
+      },
+      "2022": {
+        "año": 2,
+        "nivel_estudio": "superior",
+        "nivel_estudio_id": 115,
+        "plan_id": "Fsa2311013",
+        "carrera": "Tecnico Superior en Desarrollo de Software Multiplataforma",
+        "edad": 35,
+        "cue_anexo": 340117200
+      }
+    },
+    "fecha_ingreso": "2021-07-07T03:00:00.000Z",
+    "tutor": "Pedemonte Ricardo"
   },
   {
     "_id": "46152825",
@@ -125,4 +295,5 @@
     "fecha_ingreso": "2021-07-07T03:00:00.000Z",
     "tutor": "Laura Muñoz"
   }
+
 ]
