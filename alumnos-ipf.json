@@ -585,6 +585,47 @@
     },
     "fecha_ingreso": "2021-07-04T03:00:00.000Z",
     "tutor": "Maria Rosita"
+  },
+  {
+    "_id": "42634978",
+    "nombres": ["Mauricio"],
+    "apellidos": ["Barrientos"],
+    "domicilio": {
+      "localidad": "Formosa",
+      "barrio": "Parque Urbano 1",
+      "calle": "Pilagás",
+      "nro": 52,
+      "mz": 11,
+      "casa": 22,
+      "coordenadas": {
+        "lat": -26.18142,
+        "lng": -58.19440
+      }
+    },
+    "genero": "M",
+    "nacionalidad": "Argentina",
+    "fecha_de_nacimiento": "2000-05-23T05:39:10.029Z",
+    "cursado": {
+      "2021": {
+        "año": 1,
+        "nivel_estudio_id": 115,
+        "nivel_estudio": "superior",
+        "plan_id": "Fsa2311501",
+        "carrera": "Tecnico Superior en Desarrollo de Software Multiplataforma",
+        "edad": 21,
+        "cue_anexo": 340117200
+      },
+      "2022": {
+        "año": 2,
+        "nivel_estudio": "superior",
+        "nivel_estudio_id": 115,
+        "plan_id": "Fsa2311013",
+        "carrera": "Tecnico Superior en Desarrollo de Software Multiplataforma",
+        "edad": 22,
+        "cue_anexo": 340117200
+      },
+      "fecha_ingreso": "2021-07-07T03:00:00.000Z",
+      "tutor": "Claudia Salina"
+    }
   }
-
 ]
