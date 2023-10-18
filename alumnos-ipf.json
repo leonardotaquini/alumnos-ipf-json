@@ -544,4 +544,49 @@
     "tutor": "Valdez Sergio"
   }
   
+
+  {
+    "_id": "45969300",
+    "nombres": ["Carla", "Malena"],
+    "apellidos": ["Piazza"],
+    "domicilio": {
+      "localidad": "Formosa",
+      "barrio": "La nueva Formosa",
+      "calle": ["Saavedra", "Calle 13"],
+      "nro": "",
+      "mz": "53",
+      "casa": "1",
+      "grupo": "B",
+      "coordenadas": {
+        "lat": -26.204959, 
+        "lng": -58.242286
+      }
+    },
+    "genero": "F",
+    "nacionalidad": "Argentina",
+    "fecha_de_nacimiento": "2004-09-16T08:39:10.029Z",
+    "cursado": {
+      "2021": {
+        "año": 1,
+        "nivel_estudio_id": 115,
+        "nivel_estudio": "superior",
+        "plan_id": "Fsa2311501",
+        "carrera": "Tecnico Superior en Desarrollo de Software Multiplataforma",
+        "edad": 18,
+        "cue_anexo": 340117200
+      },
+      "2022": {
+        "año": 2,
+        "nivel_estudio": "superior",
+        "nivel_estudio_id": 115,
+        "plan_id": "Fsa2311013",
+        "carrera": "Tecnico Superior en Desarrollo de Software Multiplataforma",
+        "edad": 19,
+        "cue_anexo": 340117200
+      }
+    },
+    "fecha_ingreso": "2021-07-07T03:00:00.000Z",
+    "tutor": "Pablo Escobar"
+  },
+
 ]
