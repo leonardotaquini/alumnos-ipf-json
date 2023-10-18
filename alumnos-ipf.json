@@ -345,5 +345,48 @@
   "fecha_ingreso": "2021-07-07T03:00:00.000Z",
   "tutor": "Fausto Cuquejo"
 },
+{
+  "_id": "38319564",
+  "nombres": ["Fabricio", "Nahuel"],
+  "apellidos": ["Costadoni"],
+  "domicilio": {
+    "localidad": "Formosa",
+    "barrio": "Alborada",
+    "calle": "Berutti",
+    "nro": 724,
+    "mz": 34,
+    "casa": 5,
+    "grupo": 0,
+    "coordenadas": {
+      "lat": -26.16676,
+      "lng": -58.19435
+    }
+  },
+  "genero": "M",
+  "nacionalidad": "Argentina",
+  "fecha_de_nacimiento": "2001-09-30T05:39:10.029Z",
+  "cursado": {
+    "2021": {
+      "año": 1,
+      "nivel_estudio_id": 115,
+      "nivel_estudio": "superior",
+      "plan_id": "Fsa2311501",
+      "carrera": "Tecnico Superior en Desarrollo de Software Multiplataforma",
+      "edad": 22,
+      "cue_anexo": 340117200
+    },
+    "2022": {
+      "año": 2,
+      "nivel_estudio": "superior",
+      "nivel_estudio_id": 115,
+      "plan_id": "Fsa2311013",
+      "carrera": "Tecnico Superior en Desarrollo de Software Multiplataforma",
+      "edad": 23,
+      "cue_anexo": 340117200
+    }
+  },
+  "fecha_ingreso": "2021-07-07T03:00:00.000Z",
+  "tutor": "Ricardo Costadoni"
+}
 
 ]
