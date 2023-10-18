@@ -500,6 +500,48 @@
     "fecha_ingreso": "2021-07-07T03:00:00.000Z",
     "tutor": "Jorge Ríos"
   },
-
-
+   {
+    "_id": "39318572",
+    "nombres": ["Sergio", "Daniel"],
+    "apellidos": ["Valdez"],
+    "domicilio": {
+      "localidad": "Formosa",
+      "barrio": "La Nueva Formosa",
+      "calle": "Ayacucho",
+      "nro": "S/N",
+      "mz": 83,
+      "casa": 01,
+      "grupo": 150,
+      "coordenadas": {
+        "lat": -26.21384,
+        "lng": -58.23966
+      }
+    },
+    "genero": "M",
+    "nacionalidad": "Argentina",
+    "fecha_de_nacimiento": "2004-12-27T05:39:10.029Z",
+    "cursado": {
+      "2021": {
+        "año": 1,
+        "nivel_estudio_id": 115,
+        "nivel_estudio": "superior",
+        "plan_id": "Fsa2311501",
+        "carrera": "Tecnico Superior en Desarrollo de Software Multiplataforma",
+        "edad": 18,
+        "cue_anexo": 340117200
+      },
+      "2022": {
+        "año": 2,
+        "nivel_estudio": "superior",
+        "nivel_estudio_id": 115,
+        "plan_id": "Fsa2311013",
+        "carrera": "Tecnico Superior en Desarrollo de Software Multiplataforma",
+        "edad": 19,
+        "cue_anexo": 340117200
+      }
+    },
+    "fecha_ingreso": "2021-07-07T03:00:00.000Z",
+    "tutor": "Valdez Sergio"
+  }
+  
 ]
