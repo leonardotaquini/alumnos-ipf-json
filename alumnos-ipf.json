@@ -98,13 +98,13 @@
         "$date": "2004-04-11T03:00:00.000Z"
       },
       "oferta2021": 110,
-      "CUE2021": 340051300,
-      "plan2021": "Fsa2311012",
-      "grado2021": 5,
-      "oferta2022": 110,
-      "CUE2022": 340051300,
-      "plan2022": "Fsa2311012",
-      "grado2022": 6,
+      "CUE2021": 340117200,
+      "plan2021": "Fsa2311501",
+      "grado2021": 1,
+      "oferta2022": 115,
+      "CUE2022": 340117200,
+      "plan2022": "Fsa2311501",
+      "grado2022": 2,
       "domicilio": {
         "barrio": "SAN PEDRO",
         "calle": "VICENTE POSADAS",
@@ -117,7 +117,7 @@
   },{
     "_id": "37683989",
     "nombres": [
-      "María José",
+      "María José"
 
     ],
     "apellidos": [
@@ -128,12 +128,12 @@
       "barrio": "San Miguel",
       "calle": "Luis Zambrini",
       "nro": 408,
-      "mz": 
-      "casa": 
-      "grupo": 
+      "mz": "",
+      "casa": "",
+      "grupo": "",
       "coordenadas": {
         "lat": -26.17210419258526,
-        "lng": -58.17833161345554,
+        "lng": -58.17833161345554
       }
     },
     "genero": "F",
@@ -164,7 +164,7 @@
   },{
     "_id": "35285985",
     "nombres": [
-      "Alejandro Nahuel",
+      "Alejandro Nahuel"
     ],
     "apellidos": [
       "Ruiz Díaz"
@@ -174,12 +174,12 @@
       "barrio": "Guadalupe",
       "calle": "Avenida Antartida Argentina",
       "nro": 326,
-      "mz": 
-      "casa": 
-      "grupo": 
+      "mz": "",
+      "casa": "",
+      "grupo": "",
       "coordenadas": {
         "lat": -26.185871,
-        "lng": -58.195513,
+        "lng": -58.195513
       }
     },
     "genero": "M",
@@ -211,7 +211,7 @@
 {
     "_id": "34511578",
     "nombres": [
-      "Ricardo Martín",
+      "Ricardo Martín"
     ],
     "apellidos": [
       "Pedemonte"
@@ -221,12 +221,12 @@
       "barrio": "El Resguardo",
       "calle": "Santos Marighetti",
       "nro": 375,
-      "mz": 
-      "casa": 
-      "grupo": 
+      "mz": "",
+      "casa": "",
+      "grupo": "",
       "coordenadas": {
         "lat": -26.158403,
-        "lng": -58.177647,
+        "lng": -58.177647
       }
     },
     "genero": "M",
@@ -294,8 +294,8 @@
     },
     "fecha_ingreso": "2021-07-07T03:00:00.000Z",
     "tutor": "Laura Muñoz"
-  }
-
+  },
+{
   "_id": "43888072",
   "nombres": [
     "Fausto",
@@ -387,7 +387,7 @@
   },
   "fecha_ingreso": "2021-07-07T03:00:00.000Z",
   "tutor": "Ricardo Costadoni"
-}
+},
 {
     "_id": "38140020",
     "nombres": ["Leonardo", "Fabián"],
@@ -430,8 +430,7 @@
     },
     "fecha_ingreso": "2021-07-07T03:00:00.000Z",
     "tutor": "Leonardo Fabián Lezcano"
-  }
-
+  },
 
 {
   "_id": "46155335",
@@ -473,7 +472,7 @@
   "fecha_ingreso": "2021-07-07T03:00:00.000Z",
   "tutor": "Maria Elena Rosales"
 },
-,
+{
     "genero": "M",
     "nacionalidad": "Argentina",
     "fecha_de_nacimiento": "2005-03-17T05:39:10.029Z",
@@ -499,7 +498,7 @@
     },
     "fecha_ingreso": "2021-07-07T03:00:00.000Z",
     "tutor": "Jorge Ríos"
-  },
+  }
 
 
 ]
