@@ -45,6 +45,54 @@
     },
     "fecha_ingreso": "2021-07-07T03:00:00.000Z",
     "tutor": "Leonardo Taquini"
+  },
+    {
+    "_id": "39318572",
+    "nombres": [
+      "Augusto",
+      "David"
+    ],
+    "apellidos": [
+      "Chaves Fiore"
+    ],
+    "domicilio": {
+      "localidad": "Formosa",
+      "barrio": "Republica Argentina",
+      "calle": "Jose Guastalla",
+      "nro": S/N,
+      "mz": 54,
+      "casa": 7,
+      "grupo": ,
+      "coordenadas": {
+        "lat": -26.139207,
+        "lng": -58.165642
+      }
+    },
+    "genero": "M",
+    "nacionalidad": "Argentina",
+    "fecha_de_nacimiento": "1996-04-10T00:00:00.000Z",
+    "cursado": {
+      "2021": {
+        "año": 1,
+        "nivel_estudio_id": 115,
+        "nivel_estudio": "superior",
+        "plan_id": "Fsa2311501",
+        "carrera": "Tecnico Superior en Desarrollo de Software Multiplataforma",
+        "edad": 25,
+        "cue_anexo": 340117200
+      },
+      "2022": {
+        "año": 2,
+        "nivel_estudio": "superior",
+        "nivel_estudio_id": 115,
+        "plan_id": "Fsa2311013",
+        "carrera": "Tecnico Superior en Desarrollo de Software Multiplataforma",
+        "edad": 26,
+        "cue_anexo": 340117200
+      }
+    },
+    "fecha_ingreso": "2021-07-07T03:00:00.000Z",
+    "tutor": "Augusto Chaves Fiore"
   }
 
 ]
