@@ -296,4 +296,54 @@
     "tutor": "Laura Muñoz"
   }
 
+  "_id": "43888072",
+  "nombres": [
+    "Fausto",
+    "Joaquín",
+    "De Jesús"
+  ],
+  "apellidos": [
+    "Cuquejo",
+    "Ortega"
+  ],
+  "domicilio": {
+    "localidad": "Formosa",
+    "barrio": "Mariano Moreno",
+    "calle": "Av Pueyrredón",
+    "nro": 1136,
+    "mz": 0,
+    "casa": 13,
+    "grupo": 8,
+    "coordenadas": {
+      "lat": -26.1978309,
+      "lng": -58.2013912
+    }
+  },
+  "genero": "M",
+  "nacionalidad": "Argentina",
+  "fecha_de_nacimiento": "2002-03-08T05:39:10.029Z",
+  "cursado": {
+    "2021": {
+      "año": 1,
+      "nivel_estudio_id": 115,
+      "nivel_estudio": "superior",
+      "plan_id": "Fsa2311501",
+      "carrera": "Tecnico Superior en Desarrollo de Software Multiplataforma",
+      "edad": 20,
+      "cue_anexo": 340117200
+    },
+    "2022": {
+      "año": 2,
+      "nivel_estudio": "superior",
+      "nivel_estudio_id": 115,
+      "plan_id": "Fsa2311013",
+      "carrera": "Tecnico Superior en Desarrollo de Software Multiplataforma",
+      "edad": 21,
+      "cue_anexo": 340117200
+    }
+  },
+  "fecha_ingreso": "2021-07-07T03:00:00.000Z",
+  "tutor": "Fausto Cuquejo"
+},
+
 ]
