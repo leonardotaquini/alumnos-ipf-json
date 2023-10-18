@@ -388,5 +388,49 @@
   "fecha_ingreso": "2021-07-07T03:00:00.000Z",
   "tutor": "Ricardo Costadoni"
 }
+{
+    "_id": "38140020",
+    "nombres": ["Leonardo", "Fabián"],
+    "apellidos": ["Lezcano"],
+    "domicilio": {
+      "localidad": "Formosa",
+      "barrio": "Facundo Quiroga",
+      "calle": "Av. Gendarmeria Nacional",
+      "nro": 1055,
+      "mz": "",
+      "casa": "",
+      "grupo": "",
+      "coordenadas": {
+        "lat": -26.157407885958342,
+        "lng": -58.18750128869294
+      }
+    },
+    "genero": "M",
+    "nacionalidad": "Argentina",
+    "fecha_de_nacimiento": "1994-02-28T00:00:00.000Z",
+    "cursado": {
+      "2021": {
+        "año": 1,
+        "nivel_estudio_id": 115,
+        "nivel_estudio": "superior",
+        "plan_id": "Fsa2311501",
+        "carrera": "Tecnico Superior en Desarrollo de Software Multiplataforma",
+        "edad": 27,
+        "cue_anexo": 340117200
+      },
+      "2022": {
+        "año": 2,
+        "nivel_estudio": "superior",
+        "nivel_estudio_id": 115,
+        "plan_id": "Fsa2311013",
+        "carrera": "Tecnico Superior en Desarrollo de Software Multiplataforma",
+        "edad": 28,
+        "cue_anexo": 340117200
+      }
+    },
+    "fecha_ingreso": "2021-07-07T03:00:00.000Z",
+    "tutor": "Leonardo Fabián Lezcano"
+  }
+
 
 ]
