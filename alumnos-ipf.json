@@ -542,6 +542,49 @@
     },
     "fecha_ingreso": "2021-07-07T03:00:00.000Z",
     "tutor": "Pablo Escobar"
+  },
+  {
+    "_id": "46153894",
+    "nombres": ["Natali", "Solange"],
+    "apellidos": ["Stevens"],
+    "domicilio": {
+      "localidad": "Formosa",
+      "barrio": "Itati II",
+      "calle": "Masferrer",
+      "nro": 204,
+      "mz": 17,
+      "casa": 40,
+      "grupo": 10,
+      "coordenadas": {
+        "lat": -271.16676,
+        "lng": -732.19435
+      }
+    },
+    "genero": "F",
+    "nacionalidad": "Argentina",
+    "fecha_de_nacimiento": "2005-03-10T02:12:10.029Z",
+    "cursado": {
+      "2021": {
+        "año": 1,
+        "nivel_estudio_id": 115,
+        "nivel_estudio": "superior",
+        "plan_id": "Fsa2311501",
+        "carrera": "Tecnico Superior en Desarrollo de Software Multiplataforma",
+        "edad": 18,
+        "cue_anexo": 340117200
+      },
+      "2022": {
+        "año": 2,
+        "nivel_estudio": "superior",
+        "nivel_estudio_id": 115,
+        "plan_id": "Fsa2311013",
+        "carrera": "Tecnico Superior en Desarrollo de Software Multiplataforma",
+        "edad": 19,
+        "cue_anexo": 340117200
+      }
+    },
+    "fecha_ingreso": "2021-07-04T03:00:00.000Z",
+    "tutor": "Maria Rosita"
   }
 
 ]
