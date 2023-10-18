@@ -91,6 +91,7 @@
         "cue_anexo": 340117200
       }
     },
+       
     "fecha_ingreso": "2021-07-07T03:00:00.000Z",
     "tutor": "Augusto Chaves Fiore"
   },
@@ -125,3 +126,51 @@
   }
 
 ]
+ [{
+    "_id": "37683989",
+    "nombres": [
+      "María José",
+
+    ],
+    "apellidos": [
+      "Cánepa"
+    ],
+    "domicilio": {
+      "localidad": "Formosa",
+      "barrio": "San Miguel",
+      "calle": "Luis Zambrini",
+      "nro": 408,
+      "mz": 
+      "casa": 
+      "grupo": 
+      "coordenadas": {
+        "lat": -26.17210419258526,
+        "lng": -58.17833161345554,
+      }
+    },
+    "genero": "F",
+    "nacionalidad": "Argentina",
+    "fecha_de_nacimiento": "1993-10-06T05:39:10.029Z",
+    "cursado": {
+      "2021": {
+        "año": 1,
+        "nivel_estudio_id": 115,
+        "nivel_estudio": "superior",
+        "plan_id": "Fsa2311501",
+        "carrera": "Tecnico Superior en Desarrollo de Software Multiplataforma",
+        "edad": 30,
+        "cue_anexo": 340117200
+      },
+      "2022": {
+        "año": 2,
+        "nivel_estudio": "superior",
+        "nivel_estudio_id": 115,
+        "plan_id": "Fsa2311013",
+        "carrera": "Tecnico Superior en Desarrollo de Software Multiplataforma",
+        "edad": 31,
+        "cue_anexo": 340117200
+      }
+    },
+    "fecha_ingreso": "2021-07-07T03:00:00.000Z",
+    "tutor": "María José Cánepa"
+  },
