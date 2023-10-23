@@ -1,8 +1,13 @@
 [
   {
     "_id": "39318572",
-    "nombres": ["Leonardo", "Gabriel"],
-    "apellidos": ["Taquini"],
+    "nombres": [
+      "Leonardo",
+      "Gabriel"
+    ],
+    "apellidos": [
+      "Taquini"
+    ],
     "domicilio": {
       "localidad": "Formosa",
       "barrio": "Venezuela",
@@ -44,8 +49,13 @@
   },
   {
     "_id": "39606339",
-    "nombres": ["Augusto", "David"],
-    "apellidos": ["Chaves Fiore"],
+    "nombres": [
+      "Augusto",
+      "David"
+    ],
+    "apellidos": [
+      "Chaves Fiore"
+    ],
     "domicilio": {
       "localidad": "Formosa",
       "barrio": "Republica Argentina",
@@ -82,7 +92,6 @@
         "cue_anexo": 340117200
       }
     },
-
     "fecha_ingreso": "2021-07-07T03:00:00.000Z",
     "tutor": "Augusto Chaves Fiore"
   },
@@ -117,8 +126,12 @@
   },
   {
     "_id": "37683989",
-    "nombres": ["María José"],
-    "apellidos": ["Cánepa"],
+    "nombres": [
+      "María José"
+    ],
+    "apellidos": [
+      "Cánepa"
+    ],
     "domicilio": {
       "localidad": "Formosa",
       "barrio": "San Miguel",
@@ -160,8 +173,12 @@
   },
   {
     "_id": "35285985",
-    "nombres": ["Alejandro Nahuel"],
-    "apellidos": ["Ruiz Díaz"],
+    "nombres": [
+      "Alejandro Nahuel"
+    ],
+    "apellidos": [
+      "Ruiz Díaz"
+    ],
     "domicilio": {
       "localidad": "Formosa",
       "barrio": "Guadalupe",
@@ -203,8 +220,12 @@
   },
   {
     "_id": "34511578",
-    "nombres": ["Ricardo Martín"],
-    "apellidos": ["Pedemonte"],
+    "nombres": [
+      "Ricardo Martín"
+    ],
+    "apellidos": [
+      "Pedemonte"
+    ],
     "domicilio": {
       "localidad": "Formosa",
       "barrio": "El Resguardo",
@@ -246,8 +267,13 @@
   },
   {
     "_id": "46152825",
-    "nombres": ["Dante", "Flavian"],
-    "apellidos": ["Benitez"],
+    "nombres": [
+      "Dante",
+      "Flavian"
+    ],
+    "apellidos": [
+      "Benitez"
+    ],
     "domicilio": {
       "localidad": "Formosa",
       "barrio": "Santa Rosa",
@@ -286,8 +312,15 @@
   },
   {
     "_id": "43888072",
-    "nombres": ["Fausto", "Joaquín", "De Jesús"],
-    "apellidos": ["Cuquejo", "Ortega"],
+    "nombres": [
+      "Fausto",
+      "Joaquín",
+      "De Jesús"
+    ],
+    "apellidos": [
+      "Cuquejo",
+      "Ortega"
+    ],
     "domicilio": {
       "localidad": "Formosa",
       "barrio": "Mariano Moreno",
@@ -329,8 +362,13 @@
   },
   {
     "_id": "38319564",
-    "nombres": ["Fabricio", "Nahuel"],
-    "apellidos": ["Costadoni"],
+    "nombres": [
+      "Fabricio",
+      "Nahuel"
+    ],
+    "apellidos": [
+      "Costadoni"
+    ],
     "domicilio": {
       "localidad": "Formosa",
       "barrio": "Alborada",
@@ -372,8 +410,13 @@
   },
   {
     "_id": "38140020",
-    "nombres": ["Leonardo", "Fabián"],
-    "apellidos": ["Lezcano"],
+    "nombres": [
+      "Leonardo",
+      "Fabián"
+    ],
+    "apellidos": [
+      "Lezcano"
+    ],
     "domicilio": {
       "localidad": "Formosa",
       "barrio": "Facundo Quiroga",
@@ -413,11 +456,15 @@
     "fecha_ingreso": "2021-07-07T03:00:00.000Z",
     "tutor": "Leonardo Fabián Lezcano"
   },
-
   {
     "_id": "46155335",
-    "nombres": ["Carlos", "Fabián"],
-    "apellidos": ["Villagra"],
+    "nombres": [
+      "Carlos",
+      "Fabián"
+    ],
+    "apellidos": [
+      "Villagra"
+    ],
     "domicilio": {
       "localidad": "Formosa",
       "barrio": "San Pedro",
@@ -483,12 +530,20 @@
   },
   {
     "_id": "45969300",
-    "nombres": ["Carla", "Malena"],
-    "apellidos": ["Piazza"],
+    "nombres": [
+      "Carla",
+      "Malena"
+    ],
+    "apellidos": [
+      "Piazza"
+    ],
     "domicilio": {
       "localidad": "Formosa",
       "barrio": "La nueva Formosa",
-      "calle": ["Saavedra", "Calle 13"],
+      "calle": [
+        "Saavedra",
+        "Calle 13"
+      ],
       "nro": "",
       "mz": "53",
       "casa": "1",
@@ -526,8 +581,13 @@
   },
   {
     "_id": "46153894",
-    "nombres": ["Natali", "Solange"],
-    "apellidos": ["Stevens"],
+    "nombres": [
+      "Natali",
+      "Solange"
+    ],
+    "apellidos": [
+      "Stevens"
+    ],
     "domicilio": {
       "localidad": "Formosa",
       "barrio": "Itati II",
@@ -569,8 +629,12 @@
   },
   {
     "_id": "42634978",
-    "nombres": ["Mauricio"],
-    "apellidos": ["Barrientos"],
+    "nombres": [
+      "Mauricio"
+    ],
+    "apellidos": [
+      "Barrientos"
+    ],
     "domicilio": {
       "localidad": "Formosa",
       "barrio": "Parque Urbano 1",
@@ -611,8 +675,12 @@
   },
   {
     "_id": "43938274",
-    "nombres": ["Tomas Luis"],
-    "apellidos": ["Valdez Caeiro"],
+    "nombres": [
+      "Tomas Luis"
+    ],
+    "apellidos": [
+      "Valdez Caeiro"
+    ],
     "domicilio": {
       "localidad": "Formosa",
       "barrio": "San Martin",
@@ -647,47 +715,98 @@
       },
       "fecha_ingreso": "2021-07-07T03:00:00.000Z",
       "tutor": "Daniela Caeiro"
-  },
-  {
-    "_id": "44224683",
-    "nombres": ["Alejandro"],
-    "apellidos": ["Aquino"],
-    "domicilio": {
-      "localidad": "Formosa",
-      "barrio": "San Agustin",
-      "calle": "Diaz Roig",
-      "nro": 760,
-      "mz": "",
-      "casa": "",
-      "coordenadas": {
-        "lat": -26.160997,
-        "lng": -58.162967
+    },
+    {
+      "_id": "44224683",
+      "nombres": [
+        "Alejandro"
+      ],
+      "apellidos": [
+        "Aquino"
+      ],
+      "domicilio": {
+        "localidad": "Formosa",
+        "barrio": "San Agustin",
+        "calle": "Diaz Roig",
+        "nro": 760,
+        "mz": "",
+        "casa": "",
+        "coordenadas": {
+          "lat": -26.160997,
+          "lng": -58.162967
+        }
+      },
+      "genero": "M",
+      "nacionalidad": "Argentina",
+      "fecha_de_nacimiento": "2002-08-26T05:39:10.029Z",
+      "cursado": {
+        "2021": {
+          "año": 1,
+          "nivel_estudio_id": 115,
+          "nivel_estudio": "superior",
+          "plan_id": "Fsa2311501",
+          "carrera": "Tecnico Superior en Desarrollo de Software Multiplataforma",
+          "edad": 21,
+          "cue_anexo": 340117200
+        },
+        "2022": {
+          "año": 2,
+          "nivel_estudio": "superior",
+          "nivel_estudio_id": 115,
+          "plan_id": "Fsa2311013",
+          "carrera": "Tecnico Superior en Desarrollo de Software Multiplataforma",
+          "edad": 22,
+          "cue_anexo": 340117200
+        },
+        "fecha_ingreso": "2021-07-07T03:00:00.000Z",
+        "tutor": "Mirtha Ledesma"
       }
     },
-    "genero": "M",
-    "nacionalidad": "Argentina",
-    "fecha_de_nacimiento": "2002-08-26T05:39:10.029Z",
-    "cursado": {
-      "2021": {
-        "año": 1,
-        "nivel_estudio_id": 115,
-        "nivel_estudio": "superior",
-        "plan_id": "Fsa2311501",
-        "carrera": "Tecnico Superior en Desarrollo de Software Multiplataforma",
-        "edad": 21,
-        "cue_anexo": 340117200
+    {
+      "_id": "46063898",
+      "nombres": [
+        "Axel Javier"
+      ],
+      "apellidos": [
+        "Bresanovich"
+      ],
+      "domicilio": {
+        "localidad": "Formosa",
+        "barrio": "Lote 4",
+        "calle": "Malvinas Argentina",
+        "nro": 245,
+        "mz": "",
+        "casa": "",
+        "grupo": "",
+        "coordenadas": {
+          "lat": -26.17210419258526,
+          "lng": -58.17833161345554
+        }
       },
-      "2022": {
-        "año": 2,
-        "nivel_estudio": "superior",
-        "nivel_estudio_id": 115,
-        "plan_id": "Fsa2311013",
-        "carrera": "Tecnico Superior en Desarrollo de Software Multiplataforma",
-        "edad": 22,
-        "cue_anexo": 340117200
+      "genero": "M",
+      "nacionalidad": "Argentina",
+      "fecha_de_nacimiento": "2005-018-01T05:39:10.029Z",
+      "cursado": {
+        "2021": {
+          "año": 1,
+          "nivel_estudio_id": 115,
+          "nivel_estudio": "superior",
+          "plan_id": "Fsa2311501",
+          "carrera": "Tecnico Superior en Desarrollo de Software Multiplataforma",
+          "edad": 18,
+          "cue_anexo": 340117200
+        },
+        "2022": {
+          "año": 2,
+          "nivel_estudio": "superior",
+          "nivel_estudio_id": 115,
+          "plan_id": "Fsa2311013",
+          "carrera": "Tecnico Superior en Desarrollo de Software Multiplataforma",
+          "edad": 31,
+          "cue_anexo": 340117200
+        }
       },
       "fecha_ingreso": "2021-07-07T03:00:00.000Z",
-      "tutor": "Mirtha Ledesma"
+      "tutor": "Axel Javier Bresanovich"
     }
-  }
-]
+  ]
