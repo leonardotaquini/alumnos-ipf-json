@@ -657,8 +657,8 @@
       "barrio": "San Agustin",
       "calle": "Diaz Roig",
       "nro": 760,
-      "mz": ,
-      "casa": ,
+      "mz": "",
+      "casa": "",
       "coordenadas": {
         "lat": -26.160997,
         "lng": -58.162967
