@@ -82,47 +82,43 @@
         "cue_anexo": 340117200
       }
     },
-       
+
     "fecha_ingreso": "2021-07-07T03:00:00.000Z",
     "tutor": "Augusto Chaves Fiore"
   },
   {
-      "_id": 45745605,
-      "fila": 1,
-      "pasodegrado": "S",
-      "apellido": "Pietkiewicz",
-      "nombre": "Maximiliano",
-      "sexo": "M",
-      "nacionalidad": "Argentino/a",
-      "fecha_nacim": {
-        "$date": "2004-04-11T03:00:00.000Z"
-      },
-      "oferta2021": 110,
-      "CUE2021": 340117200,
-      "plan2021": "Fsa2311501",
-      "grado2021": 1,
-      "oferta2022": 115,
-      "CUE2022": 340117200,
-      "plan2022": "Fsa2311501",
-      "grado2022": 2,
-      "domicilio": {
-        "barrio": "SAN PEDRO",
-        "calle": "VICENTE POSADAS",
-        "numero": 1876,
-        "cordenadas": {
-          "lat": -26.175433413485628,
-          "log": -58.19115405027633
-        }
+    "_id": 45745605,
+    "fila": 1,
+    "pasodegrado": "S",
+    "apellido": "Pietkiewicz",
+    "nombre": "Maximiliano",
+    "sexo": "M",
+    "nacionalidad": "Argentino/a",
+    "fecha_nacim": {
+      "$date": "2004-04-11T03:00:00.000Z"
+    },
+    "oferta2021": 110,
+    "CUE2021": 340117200,
+    "plan2021": "Fsa2311501",
+    "grado2021": 1,
+    "oferta2022": 115,
+    "CUE2022": 340117200,
+    "plan2022": "Fsa2311501",
+    "grado2022": 2,
+    "domicilio": {
+      "barrio": "SAN PEDRO",
+      "calle": "VICENTE POSADAS",
+      "numero": 1876,
+      "cordenadas": {
+        "lat": -26.175433413485628,
+        "log": -58.19115405027633
       }
-  },{
+    }
+  },
+  {
     "_id": "37683989",
-    "nombres": [
-      "María José"
-
-    ],
-    "apellidos": [
-      "Cánepa"
-    ],
+    "nombres": ["María José"],
+    "apellidos": ["Cánepa"],
     "domicilio": {
       "localidad": "Formosa",
       "barrio": "San Miguel",
@@ -161,14 +157,11 @@
     },
     "fecha_ingreso": "2021-07-07T03:00:00.000Z",
     "tutor": "María José Cánepa"
-  },{
+  },
+  {
     "_id": "35285985",
-    "nombres": [
-      "Alejandro Nahuel"
-    ],
-    "apellidos": [
-      "Ruiz Díaz"
-    ],
+    "nombres": ["Alejandro Nahuel"],
+    "apellidos": ["Ruiz Díaz"],
     "domicilio": {
       "localidad": "Formosa",
       "barrio": "Guadalupe",
@@ -208,14 +201,10 @@
     "fecha_ingreso": "2021-07-07T03:00:00.000Z",
     "tutor": "Ruiz Diaz Alejandro"
   },
-{
+  {
     "_id": "34511578",
-    "nombres": [
-      "Ricardo Martín"
-    ],
-    "apellidos": [
-      "Pedemonte"
-    ],
+    "nombres": ["Ricardo Martín"],
+    "apellidos": ["Pedemonte"],
     "domicilio": {
       "localidad": "Formosa",
       "barrio": "El Resguardo",
@@ -295,100 +284,93 @@
     "fecha_ingreso": "2021-07-07T03:00:00.000Z",
     "tutor": "Laura Muñoz"
   },
-{
-  "_id": "43888072",
-  "nombres": [
-    "Fausto",
-    "Joaquín",
-    "De Jesús"
-  ],
-  "apellidos": [
-    "Cuquejo",
-    "Ortega"
-  ],
-  "domicilio": {
-    "localidad": "Formosa",
-    "barrio": "Mariano Moreno",
-    "calle": "Av Pueyrredón",
-    "nro": 1136,
-    "mz": 0,
-    "casa": 13,
-    "grupo": 8,
-    "coordenadas": {
-      "lat": -26.1978309,
-      "lng": -58.2013912
-    }
-  },
-  "genero": "M",
-  "nacionalidad": "Argentina",
-  "fecha_de_nacimiento": "2002-03-08T05:39:10.029Z",
-  "cursado": {
-    "2021": {
-      "año": 1,
-      "nivel_estudio_id": 115,
-      "nivel_estudio": "superior",
-      "plan_id": "Fsa2311501",
-      "carrera": "Tecnico Superior en Desarrollo de Software Multiplataforma",
-      "edad": 20,
-      "cue_anexo": 340117200
+  {
+    "_id": "43888072",
+    "nombres": ["Fausto", "Joaquín", "De Jesús"],
+    "apellidos": ["Cuquejo", "Ortega"],
+    "domicilio": {
+      "localidad": "Formosa",
+      "barrio": "Mariano Moreno",
+      "calle": "Av Pueyrredón",
+      "nro": 1136,
+      "mz": 0,
+      "casa": 13,
+      "grupo": 8,
+      "coordenadas": {
+        "lat": -26.1978309,
+        "lng": -58.2013912
+      }
     },
-    "2022": {
-      "año": 2,
-      "nivel_estudio": "superior",
-      "nivel_estudio_id": 115,
-      "plan_id": "Fsa2311013",
-      "carrera": "Tecnico Superior en Desarrollo de Software Multiplataforma",
-      "edad": 21,
-      "cue_anexo": 340117200
-    }
-  },
-  "fecha_ingreso": "2021-07-07T03:00:00.000Z",
-  "tutor": "Fausto Cuquejo"
-},
-{
-  "_id": "38319564",
-  "nombres": ["Fabricio", "Nahuel"],
-  "apellidos": ["Costadoni"],
-  "domicilio": {
-    "localidad": "Formosa",
-    "barrio": "Alborada",
-    "calle": "Berutti",
-    "nro": 724,
-    "mz": 34,
-    "casa": 5,
-    "grupo": 0,
-    "coordenadas": {
-      "lat": -26.16676,
-      "lng": -58.19435
-    }
-  },
-  "genero": "M",
-  "nacionalidad": "Argentina",
-  "fecha_de_nacimiento": "2001-09-30T05:39:10.029Z",
-  "cursado": {
-    "2021": {
-      "año": 1,
-      "nivel_estudio_id": 115,
-      "nivel_estudio": "superior",
-      "plan_id": "Fsa2311501",
-      "carrera": "Tecnico Superior en Desarrollo de Software Multiplataforma",
-      "edad": 22,
-      "cue_anexo": 340117200
+    "genero": "M",
+    "nacionalidad": "Argentina",
+    "fecha_de_nacimiento": "2002-03-08T05:39:10.029Z",
+    "cursado": {
+      "2021": {
+        "año": 1,
+        "nivel_estudio_id": 115,
+        "nivel_estudio": "superior",
+        "plan_id": "Fsa2311501",
+        "carrera": "Tecnico Superior en Desarrollo de Software Multiplataforma",
+        "edad": 20,
+        "cue_anexo": 340117200
+      },
+      "2022": {
+        "año": 2,
+        "nivel_estudio": "superior",
+        "nivel_estudio_id": 115,
+        "plan_id": "Fsa2311013",
+        "carrera": "Tecnico Superior en Desarrollo de Software Multiplataforma",
+        "edad": 21,
+        "cue_anexo": 340117200
+      }
     },
-    "2022": {
-      "año": 2,
-      "nivel_estudio": "superior",
-      "nivel_estudio_id": 115,
-      "plan_id": "Fsa2311013",
-      "carrera": "Tecnico Superior en Desarrollo de Software Multiplataforma",
-      "edad": 23,
-      "cue_anexo": 340117200
-    }
+    "fecha_ingreso": "2021-07-07T03:00:00.000Z",
+    "tutor": "Fausto Cuquejo"
   },
-  "fecha_ingreso": "2021-07-07T03:00:00.000Z",
-  "tutor": "Ricardo Costadoni"
-},
-{
+  {
+    "_id": "38319564",
+    "nombres": ["Fabricio", "Nahuel"],
+    "apellidos": ["Costadoni"],
+    "domicilio": {
+      "localidad": "Formosa",
+      "barrio": "Alborada",
+      "calle": "Berutti",
+      "nro": 724,
+      "mz": 34,
+      "casa": 5,
+      "grupo": 0,
+      "coordenadas": {
+        "lat": -26.16676,
+        "lng": -58.19435
+      }
+    },
+    "genero": "M",
+    "nacionalidad": "Argentina",
+    "fecha_de_nacimiento": "2001-09-30T05:39:10.029Z",
+    "cursado": {
+      "2021": {
+        "año": 1,
+        "nivel_estudio_id": 115,
+        "nivel_estudio": "superior",
+        "plan_id": "Fsa2311501",
+        "carrera": "Tecnico Superior en Desarrollo de Software Multiplataforma",
+        "edad": 22,
+        "cue_anexo": 340117200
+      },
+      "2022": {
+        "año": 2,
+        "nivel_estudio": "superior",
+        "nivel_estudio_id": 115,
+        "plan_id": "Fsa2311013",
+        "carrera": "Tecnico Superior en Desarrollo de Software Multiplataforma",
+        "edad": 23,
+        "cue_anexo": 340117200
+      }
+    },
+    "fecha_ingreso": "2021-07-07T03:00:00.000Z",
+    "tutor": "Ricardo Costadoni"
+  },
+  {
     "_id": "38140020",
     "nombres": ["Leonardo", "Fabián"],
     "apellidos": ["Lezcano"],
@@ -432,47 +414,47 @@
     "tutor": "Leonardo Fabián Lezcano"
   },
 
-{
-  "_id": "46155335",
-  "nombres": ["Carlos", "Fabián"],
-  "apellidos": ["Villagra"],
-  "domicilio": {
-    "localidad": "Formosa",
-    "barrio": "San Pedro",
-    "calle": "Lorenzo Winter",
-    "nro": 1880,
-    "coordenadas": {
-      "lat": -26.1744594,
-      "lng": -58.1916273
-    }
-  },
-  "genero": "M",
-  "nacionalidad": "Argentina",
-  "fecha_de_nacimiento": "2005-03-17T05:39:10.029Z",
-  "cursado": {
-    "2021": {
-      "año": 1,
-      "nivel_estudio_id": 115,
-      "nivel_estudio": "superior",
-      "plan_id": "Fsa2311501",
-      "carrera": "Tecnico Superior en Desarrollo de Software Multiplataforma",
-      "edad": 18,
-      "cue_anexo": 340117200
+  {
+    "_id": "46155335",
+    "nombres": ["Carlos", "Fabián"],
+    "apellidos": ["Villagra"],
+    "domicilio": {
+      "localidad": "Formosa",
+      "barrio": "San Pedro",
+      "calle": "Lorenzo Winter",
+      "nro": 1880,
+      "coordenadas": {
+        "lat": -26.1744594,
+        "lng": -58.1916273
+      }
     },
-    "2022": {
-      "año": 2,
-      "nivel_estudio": "superior",
-      "nivel_estudio_id": 115,
-      "plan_id": "Fsa2311013",
-      "carrera": "Tecnico Superior en Desarrollo de Software Multiplataforma",
-      "edad": 19,
-      "cue_anexo": 340117200
-    }
+    "genero": "M",
+    "nacionalidad": "Argentina",
+    "fecha_de_nacimiento": "2005-03-17T05:39:10.029Z",
+    "cursado": {
+      "2021": {
+        "año": 1,
+        "nivel_estudio_id": 115,
+        "nivel_estudio": "superior",
+        "plan_id": "Fsa2311501",
+        "carrera": "Tecnico Superior en Desarrollo de Software Multiplataforma",
+        "edad": 18,
+        "cue_anexo": 340117200
+      },
+      "2022": {
+        "año": 2,
+        "nivel_estudio": "superior",
+        "nivel_estudio_id": 115,
+        "plan_id": "Fsa2311013",
+        "carrera": "Tecnico Superior en Desarrollo de Software Multiplataforma",
+        "edad": 19,
+        "cue_anexo": 340117200
+      }
+    },
+    "fecha_ingreso": "2021-07-07T03:00:00.000Z",
+    "tutor": "Maria Elena Rosales"
   },
-  "fecha_ingreso": "2021-07-07T03:00:00.000Z",
-  "tutor": "Maria Elena Rosales"
-},
-{
+  {
     "genero": "M",
     "nacionalidad": "Argentina",
     "fecha_de_nacimiento": "2005-03-17T05:39:10.029Z",
@@ -498,8 +480,7 @@
     },
     "fecha_ingreso": "2021-07-07T03:00:00.000Z",
     "tutor": "Jorge Ríos"
-  }
-,
+  },
   {
     "_id": "45969300",
     "nombres": ["Carla", "Malena"],
@@ -513,7 +494,7 @@
       "casa": "1",
       "grupo": "B",
       "coordenadas": {
-        "lat": -26.204959, 
+        "lat": -26.204959,
         "lng": -58.242286
       }
     },
@@ -599,7 +580,7 @@
       "casa": 22,
       "coordenadas": {
         "lat": -26.18142,
-        "lng": -58.19440
+        "lng": -58.1944
       }
     },
     "genero": "M",
@@ -626,6 +607,46 @@
       },
       "fecha_ingreso": "2021-07-07T03:00:00.000Z",
       "tutor": "Claudia Salina"
+    }
+  },
+  {
+    "_id": "43938274",
+    "nombres": ["Tomas Luis"],
+    "apellidos": ["Valdez Caeiro"],
+    "domicilio": {
+      "localidad": "Formosa",
+      "barrio": "San Martin",
+      "calle": "Fontana",
+      "nro": 273,
+      "coordenadas": {
+        "lat": -26.17935,
+        "lng": -58.17543
+      }
+    },
+    "genero": "M",
+    "nacionalidad": "Argentina",
+    "fecha_de_nacimiento": "2002-02-14T05:39:10.029Z",
+    "cursado": {
+      "2021": {
+        "año": 1,
+        "nivel_estudio_id": 115,
+        "nivel_estudio": "superior",
+        "plan_id": "Fsa2311501",
+        "carrera": "Tecnico Superior en Desarrollo de Software Multiplataforma",
+        "edad": 21,
+        "cue_anexo": 340117200
+      },
+      "2022": {
+        "año": 2,
+        "nivel_estudio": "superior",
+        "nivel_estudio_id": 115,
+        "plan_id": "Fsa2311013",
+        "carrera": "Tecnico Superior en Desarrollo de Software Multiplataforma",
+        "edad": 22,
+        "cue_anexo": 340117200
+      },
+      "fecha_ingreso": "2021-07-07T03:00:00.000Z",
+      "tutor": "Daniela Caeiro"
     }
   }
 ]
